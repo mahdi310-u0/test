@@ -1,0 +1,7 @@
+.image img {top: 0;
+left: 0;
+overflow: hidden;
+min-width: 100%;
+max-width: 100%;
+object-fit: cover;
+display: block; } 
